@@ -1,5 +1,5 @@
 # Hello-World
-Mi primer repositorio editado
+Haciendo pruebas con las ramas
 # Comandos interesantes
 **cd ..** vuelves al directorio anterior
 **cd .** Directorio actual.
